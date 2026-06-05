@@ -1,4 +1,4 @@
-# Olá, eu sou Felipe 👋
+# Olá, me chamo Felipe Huff👋
 
 🎯 Profissional em desenvolvimento na área de Tecnologia da Informação, com foco em Análise de Dados, Business Intelligence e Desenvolvimento de Software.
 
