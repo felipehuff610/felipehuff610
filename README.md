@@ -4,6 +4,12 @@ Analista de Dados e Desenvolvedor Web, com foco em Business Intelligence, automa
 
 Atualmente estudo e desenvolvo projetos utilizando Python, SQL e Power BI, buscando aprimorar habilidades em análise de dados, engenharia de dados e desenvolvimento de aplicações.
 
+## Linguagens e Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,js,html,css,git,github,vscode" />
+</p>
+
 ## Tecnologias
 
 ### Dados & BI
@@ -41,10 +47,5 @@ felipehuff610@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](SEU_LINK)
 
-## Linguagens e Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,js,html,css,git,github,vscode" />
-</p>
 
 
