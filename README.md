@@ -44,11 +44,7 @@ felipehuff610@gmail.com
 ## Linguagens e Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,js,html,css,git,github,vscode" />
 </p>
 
-## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipehuff610&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipehuff610&layout=compact)
